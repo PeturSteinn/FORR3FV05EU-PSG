@@ -5,12 +5,12 @@ let logo = Snap.select("#logo"),
   // Semsagt element er með orginal pos og þessi vigur segir
   // hver upphafs staðan á að vera frá orginal pos
   parts = [
-    ["green", [0, 20]],
-    ["blue", [20, 0]],
-    ["darkblue", [0, -20]],
-    ["yellow", [-20, 0]],
-    ["red", [20, 0]],
-    ["name", [0, -20]]
+    ["green", [-14, 4]],
+    ["blue", [11, 7]],
+    ["darkblue", [-16, -9]],
+    ["yellow", [-20, 5]],
+    ["red", [12, 17]],
+    ["name", [0, 30]]
   ],
   i = 0, // Teljari
   showTimer = null,

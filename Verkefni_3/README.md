@@ -1,4 +1,4 @@
-## 1. Farðu í gegnum myndböndin í Introduction to Augmented Reality and ARCore í Coursera https://www.coursera.org/learn/ar og svaraðu spurningunum í Quiz. (3%)
+## 1. Farðu í gegnum myndböndin í Introduction to Augmented Reality and ARCore í Coursera https://www.coursera.org/learn/ar og svaraðu spurningunum í Quiz. (3%)
 
 
 ### Module 1 final assessment
@@ -317,8 +317,9 @@
 
   * False
 
-## 2. HelloAR app prófun og kóðarýning í snjallsíma. (5%)
+## 2. HelloAR app prófun og kóðarýning í snjallsíma. (5%)
 
-## 3. Tilraun: Búðu til lítið AR verkefni sem vinnur með 2D myndgreiningu að eigin vali. Skrifaðu athugasemdir (e. comments) á íslensku í kóðaskrá. Það má vinna með e. tutorial (4%)
+## 3. Tilraun: Búðu til lítið AR verkefni sem vinnur með 2D myndgreiningu að eigin vali. Skrifaðu athugasemdir (e. comments) á íslensku í kóðaskrá. Það má vinna með e. tutorial (4%)
 
-### Notaði þetta: https://github.com/brianadvent/3DImageRecognitionAndTracking
+#### Slóð: https://github.com/PeturSteinn/FORR3FV05EU-PSG/blob/master/Verkefni_3/FORR3FV_Verkefni_3_demo/FORR3FV_Verkefni_3_demo/ViewController.swift
+#### Notaði þetta: https://github.com/brianadvent/3DImageRecognitionAndTracking

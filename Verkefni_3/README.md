@@ -160,10 +160,3 @@
 #### Kóði: (Boilerplate kóði er automatically kommentaður á Ensku af Apple) https://github.com/PeturSteinn/FORR3FV05EU-PSG/blob/master/Verkefni_3/FORR3FV_Verkefni_3_demo/FORR3FV_Verkefni_3_demo/ViewController.swift
 
 #### Myndband: https://youtu.be/oIx6dRnejHg
-
-## 2. HelloAR app prófun og kóðarýning í snjallsíma. (5%)
-
-## 3. Tilraun: Búðu til lítið AR verkefni sem vinnur með 2D myndgreiningu að eigin vali. Skrifaðu athugasemdir (e. comments) á íslensku í kóðaskrá. Það má vinna með e. tutorial (4%)
-
-#### Slóð: https://github.com/PeturSteinn/FORR3FV05EU-PSG/blob/master/Verkefni_3/FORR3FV_Verkefni_3_demo/FORR3FV_Verkefni_3_demo/ViewController.swift
-#### Notaði þetta: https://github.com/brianadvent/3DImageRecognitionAndTracking

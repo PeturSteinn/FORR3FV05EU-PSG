@@ -149,7 +149,6 @@
 
   * True ✅
 
-<<<<<<< HEAD
 ## 2. HelloAR app prófun og kóðarýning í snjallsíma. (5%)
 
 #### Notaðist við iOS og tókst ómögulega að finna eins einfalt forrit og HelloAR á Android...
@@ -158,11 +157,9 @@
 
 #### Notaði þetta: https://github.com/brianadvent/3DImageRecognitionAndTracking
 
-#### Kóði: (Boilerplate kóði er automatically kommentaður á Ensku af Apple) https://github.com/PeturSteinn/FORR3FV05EU-PSG/blob/master/Verkefni_3/FORR3FV_Verkefni_3_demo/FORR3FV_Verkefni_3_demo/ViewController.swift 
+#### Kóði: (Boilerplate kóði er automatically kommentaður á Ensku af Apple) https://github.com/PeturSteinn/FORR3FV05EU-PSG/blob/master/Verkefni_3/FORR3FV_Verkefni_3_demo/FORR3FV_Verkefni_3_demo/ViewController.swift
 
 #### Myndband: https://youtu.be/oIx6dRnejHg
-=======
-  * False
 
 ## 2. HelloAR app prófun og kóðarýning í snjallsíma. (5%)
 
@@ -170,4 +167,3 @@
 
 #### Slóð: https://github.com/PeturSteinn/FORR3FV05EU-PSG/blob/master/Verkefni_3/FORR3FV_Verkefni_3_demo/FORR3FV_Verkefni_3_demo/ViewController.swift
 #### Notaði þetta: https://github.com/brianadvent/3DImageRecognitionAndTracking
->>>>>>> f87c479d50c485e1e7a1ad55f0756e51e10431f9
